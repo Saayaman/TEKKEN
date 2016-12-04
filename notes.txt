@@ -1,2 +1,36 @@
 
 //
+$ sudo
+$ yo hubot
+
+
+//slackでボットを作るよ！
+$ adaptor: slack
+
+
+% git init
+% git add .
+% git commit -m "Initial commit"
+
+//example.coffeeの中に全部入っている
+
+
+$ bin/hubot
+$         //return button
+
+//now you can test hubot
+
+$ badger //test
+
+
+
+
+// make another new folder inside scripts
+
+//add some lines on the coffeescipt inside scripts folder
+
+// Example: robot.hear  /ikemen/i, (res) ->
+// res.send "君の方がイケてるよ、かわい子ちゃん。"
+
+$ control + c to reread the files on terminal
+$ bin/hubot //reread files
