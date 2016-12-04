@@ -30,8 +30,8 @@ $ adaptor: slack
 //example.coffeeの中に全部入っている
 
 
-$ bin/hubot
-$         //return button
+//to run hubot on terminal
+$ bin/hubot //return button
 
 //now you can test hubot
 
