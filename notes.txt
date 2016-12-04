@@ -1,4 +1,19 @@
 
+//Slack に hubot をインストールする方法
+// http://qiita.com/acairojuni/items/dc4543aa5827d4c3211c#%E5%BF%85%E8%A6%81%E3%81%9D%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE
+
+//lineにdocoomo apiを入れる方法
+//http://qiita.com/shanonim/items/f90ee13180ee70a1903d
+
+//robot.brain hubot
+//http://qiita.com/bouzuya/items/d5fd0ef9a8cb100933f4
+
+//
+//https://hubot.github.com/docs/
+
+//Hubot and slack Remainder app
+//http://qiita.com/ryotahirano/items/be5df095c9859007524a
+
 //
 $ sudo
 $ yo hubot
